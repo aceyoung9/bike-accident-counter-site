@@ -1,0 +1,11 @@
+@import '~tachyons/src/tachyons';
+
+body {
+  @extend .helvetica;
+  background-color: aliceBlue;
+}
+
+h1 {
+  @extend .f-headline;
+  @extend .measure;
+}
