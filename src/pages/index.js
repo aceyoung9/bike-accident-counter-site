@@ -1,11 +1,14 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+const Footer = () => (
+  <a href='//aliceyoung.xyz'>aliceyoung.xyz</a>
+)
+
 const IndexPage = () => (
   <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>3 days since my last bike accident 🙃</h1>
+    <Footer/>
   </div>
 )
 
