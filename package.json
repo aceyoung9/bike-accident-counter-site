@@ -1,16 +1,18 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "bike-accident-counter-site",
+  "description": "Site that keeps track of how recently I've tasted concrete.",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Alice Young <aliceyoung.9@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.73",
     "gatsby-link": "^1.6.22",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-sass": "^1.0.12"
   },
+  "repository": "aliceyoung9/bike-accident-counter-site",
   "keywords": [
-    "gatsby"
+    "gatsby example",
+    "tachyons example",
   ],
   "license": "MIT",
   "main": "n/a",
