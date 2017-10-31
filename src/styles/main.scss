@@ -1,11 +1,43 @@
 @import '~tachyons/src/tachyons';
 
+$dkBlue: #004466;
+$cosmicLatte: #FFF8E7;
+$teal: #258EA6;
+
 body {
   @extend .helvetica;
-  background-color: aliceBlue;
+  color: $dkBlue;
+  background-color: $cosmicLatte;
 }
 
 h1 {
   @extend .f-headline;
+  @extend .lh-solid;
   @extend .measure;
+}
+
+a {
+  transition: all 0.5s ease-out;
+  color: #284B63;
+
+  &:hover {
+    @extend .no-underline;
+    color: $teal;
+  }
+}
+
+footer {
+  @extend .f4;
+  @extend .lh-copy;
+}
+
+.highlight {
+  background-color: yellow;
+  padding: 0 .125em;
+}
+
+@media screen and (max-width: 30em) {
+  .f-headline {
+    font-size: 3em;
+  }
 }
