@@ -1,4 +1,4 @@
-@import '~tachyons/src/tachyons';
+@import '~tachyons/css/tachyons';
 
 $dkBlue: #004466;
 $cosmicLatte: #FFF8E7;
@@ -29,6 +29,11 @@ a {
 footer {
   @extend .f4;
   @extend .lh-copy;
+
+  h2 {
+    @extend .f3;
+    @extend .lh-title;
+  }
 }
 
 .highlight {
