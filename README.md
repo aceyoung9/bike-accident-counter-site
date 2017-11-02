@@ -3,6 +3,11 @@
 `¯\_(ツ)_/¯`
 
 # Development Instructions
+
+### Prerequisites
+* npm v8.9.0
+  * in this house we use NVM.
+
 Honestly, just...look at these [GatsbyJS Docs](https://www.gatsbyjs.org/docs/).
 
 # Use this as a starter
