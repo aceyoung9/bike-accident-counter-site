@@ -13,6 +13,7 @@ const Footer = () => (
     <div className='cf'>
       <div className='fl w-100 w-third-ns pa3'>
         <h2>Made with pettiness by <a href='//aliceyoung.xyz'>aliceyoung.xyz</a></h2>
+        <p>(Do you want the <a href='https://github.com/aliceyoung9/bike-accident-counter-site'>source code</a> or something?)</p>
       </div>
       <div className='fl w-100 w-third-ns pa3'>
         <h2>Boston Bike Advocacy Organizations I like</h2>
