@@ -26,7 +26,7 @@ const Footer = () => (
         <h2>Send Thoughts and Prayers™</h2>
         <ul>
           <li>Indulge my <a href='https://venmo.com/alice9'>Venmo</a> lol</li>
-          <li>Twitter: <a href='//twitter.com/aliceyoung_9'>@aliceyoung_9</a></li>
+          <li>Twitter: <a href='//twitter.com/alice_young9'>@alice_young9</a></li>
         </ul>
       </div>
     </div>
