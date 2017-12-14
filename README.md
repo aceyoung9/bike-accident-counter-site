@@ -5,7 +5,7 @@
 # Development Instructions
 
 ### Prerequisites
-* npm v8.9.0
+* node v8.9.3
   * in this house we use [nvm](https://github.com/creationix/nvm).
 
 Honestly, just...look at these [GatsbyJS Docs](https://www.gatsbyjs.org/docs/).
