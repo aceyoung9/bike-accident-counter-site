@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const _calcDate = () => {
-  const lastAccident = new Date(2017, 9, 27, 15);
+  const lastAccident = new Date(2018, 3, 24, 13);
   const today = new Date();
 
   return Math.floor( (today - lastAccident) / (1000 * 60 * 60 *24));
@@ -30,7 +30,6 @@ const Footer = () => (
         </ul>
       </div>
     </div>
-
   </footer>
 )
 
