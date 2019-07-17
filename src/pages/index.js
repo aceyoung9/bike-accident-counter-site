@@ -13,11 +13,11 @@ const Footer = () => (
     <div className="cf">
       <div className="fl w-100 w-third-ns pa3">
         <h2>
-          Made with pettiness by <a href="//aliceyoung.xyz">aliceyoung.xyz</a>
+          Made with pettiness by <a href="//aceyoung.xyz">aceyoung.xyz</a>
         </h2>
         <p>
           (Do you want the{" "}
-          <a href="https://github.com/aliceyoung9/bike-accident-counter-site">
+          <a href="https://github.com/aceyoung9/bike-accident-counter-site">
             source code
           </a>{" "}
           or something?)
@@ -38,10 +38,10 @@ const Footer = () => (
         <h2>Send Thoughts and Prayers™</h2>
         <ul>
           <li>
-            Indulge my <a href="https://venmo.com/alice9">Venmo</a> lol
+            Indulge my <a href="https://venmo.com/ace289">Venmo</a> lol
           </li>
           <li>
-            Twitter: <a href="//twitter.com/alice_young9">@alice_young9</a>
+            Twitter: <a href="//twitter.com/aceyoung_9">@aceyoung_9</a>
           </li>
         </ul>
       </div>

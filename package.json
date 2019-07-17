@@ -2,7 +2,7 @@
   "name": "bike-accident-counter-site",
   "description": "Site that keeps track of how recently I've tasted concrete.",
   "version": "1.0.0",
-  "author": "Alice Young <aliceyoung.9@gmail.com>",
+  "author": "Ace Young <ace.young289@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.27",
     "gatsby-link": "^2.2.2",
@@ -13,10 +13,9 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1"
   },
-  "repository": "aliceyoung9/bike-accident-counter-site",
+  "repository": "aceyoung9/bike-accident-counter-site",
   "keywords": [
-    "gatsby example",
-    "tachyons example"
+    "gatsby", "bikes"
   ],
   "license": "MIT",
   "main": "n/a",

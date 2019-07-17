@@ -1,7 +1,7 @@
 module.exports = {
   // pathPrefix: `/bike-accident-counter-site`,
   siteMetadata: {
-    title: `lol how many days has it been since Alice got into a bike accident?`
+    title: `lol how many days has it been since Ace got into a bike accident?`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

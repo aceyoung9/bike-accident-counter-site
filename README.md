@@ -14,7 +14,7 @@ Honestly, just...look at these [GatsbyJS Docs](https://www.gatsbyjs.org/docs/).
 Assuming you have already downloaded gatsby (`npm install --global gatsby-cli`), run:
 
 ```bash
-gatsby new bike-counter aliceyoung9/bike-accident-counter-site
+gatsby new bike-counter aceyoung9/bike-accident-counter-site
 ```
 ## Made with
 * [GatsbyJS](https://www.gatsbyjs.org/)
