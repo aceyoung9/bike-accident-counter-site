@@ -24,6 +24,12 @@ const Footer = () => (
         </p>
       </div>
       <div className="fl w-100 w-third-ns pa3">
+        <h2>Wanna see something grim?</h2>
+        <ul>
+          <li>
+            <a href="https://zero-vision-boston-clock.glitch.me">Zero Vision Boston Clock</a>
+          </li>
+        </ul>
         <h2>Boston Bike Advocacy Organizations I like</h2>
         <ul>
           <li>
