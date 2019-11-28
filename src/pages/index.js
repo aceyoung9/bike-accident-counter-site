@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 
 const _calcDate = () => {
-  const lastAccident = new Date(2018, 3, 24, 13);
+  const lastAccident = new Date(2019, 10, 27, 19);
   const today = new Date();
 
   return Math.floor((today - lastAccident) / (1000 * 60 * 60 * 24));
@@ -61,6 +61,7 @@ const IndexPage = () => (
       It has been <span className="highlight">{_calcDate()} days</span> since my
       last bike accident 🙃
     </h1>
+    <p>I hit a pothole at a weird angle while it was raining. 😔</p>
     <Footer />
   </Layout>
 );
