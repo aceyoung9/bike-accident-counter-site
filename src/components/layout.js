@@ -7,10 +7,10 @@ import "../styles/main.scss";
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="lol how many days has it been since Alice got into a bike accident?"
+      title="lol how many days has it been since Ace got into a bike accident?"
       meta={[
         { name: "description", content: "Sample" },
-        { name: "keywords", content: "sample, something" }
+        { name: "keywords", content: "sample, something" },
       ]}
     />
     <div
@@ -18,7 +18,7 @@ const TemplateWrapper = ({ children }) => (
         margin: "0 auto",
         maxWidth: 960,
         padding: "0px 1.0875rem 1.45rem",
-        paddingTop: 0
+        paddingTop: 0,
       }}
     >
       {children}
@@ -27,7 +27,7 @@ const TemplateWrapper = ({ children }) => (
 );
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func
+  children: PropTypes.func,
 };
 
 export default TemplateWrapper;
