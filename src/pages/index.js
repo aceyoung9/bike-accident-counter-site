@@ -62,7 +62,7 @@ const IndexPage = () => (
     <h1>
       It has been <span className="highlight">{_calcDate()} days</span> since my
       last bike accident{" "}
-      <span role="img" alt="upside down face">
+      <span role="img" aria-label="upside down face">
         🙃
       </span>
     </h1>
