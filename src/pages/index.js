@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 
 const _calcDate = () => {
-  const lastAccident = new Date("February 7, 2020 22:45:00");
+  const lastAccident = new Date("June 28, 2022 21:50:00");
   const today = new Date();
 
   return Math.floor((today - lastAccident) / (1000 * 60 * 60 * 24));
